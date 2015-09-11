@@ -11,3 +11,6 @@ overlays/
 build/
 bin/
 *.iml
+src/**/*.swp
+.cas-conf/**.*
+.cas-conf
